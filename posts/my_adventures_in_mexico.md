@@ -1,9 +1,7 @@
 ---
 title: "My Adventurous Yolkatiliz in Mexico: A Tlapalcalli Kahkun Adventure"
-date: 2023-09-30
+date: "2023-09-30"
 ---
-
-# My Adventurous Yolkatiliz in Mexico: A Tlapalcalli Kahkun Adventure
 
 ## Day 1: Arrival in Tenochtitlan
 
@@ -32,4 +30,3 @@ On the last day, I discovered a hidden tlahtokan deep in the chakok'ot. It was a
 ---
 
 I hope you enjoyed reading about my adventurous yolkatiliz in Mexico. Stay tuned for more tlapalcalli kahkun adventures!
-
