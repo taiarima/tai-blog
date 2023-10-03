@@ -10,7 +10,7 @@ export default function NavBar() {
         <div className="grid place-content-center">
           <Link
             href="/"
-            className="text-sky-50/90 hover:text-sky-50 no-underline font-title text-6xl font-bold"
+            className="text-sky-50/90 hover:text-sky-50 no-underline font-title text-6xl font-bold my-4 sm:my-0"
           >
             Tai Blog
           </Link>
